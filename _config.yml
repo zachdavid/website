@@ -1,1 +1,9 @@
-theme: jekyll-theme-modernist
+markdown: kramdown
+theme:
+
+title: Zach David | Home
+email: zach@zachdavid.com
+description: >- # this means to ignore newlines until "baseurl:"
+  I'm Zach - I like building quality software.  I shall include things that are important to me here
+url: "zachdavid.com" # the base hostname & protocol for your site, e.g. http://example.com
+github_username: zachdavid
